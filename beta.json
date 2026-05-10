@@ -1,0 +1,10 @@
+{
+  "beta_enabled": true，
+  "expire_at": "2026-05-15 00:00:00"，
+  "appGuard": "iLqXELYREg7aFgw0yAmL1xtncy+XOuRlFTXMqPqKtvNtIj85lgpXtd6XtBBhNI7IjjSbkBEF7rKlz1TIQ7ihINK4OaVePLL6I2zZFJjGWg4Ndt+BHC5zDF4LRapb0bqtP6GxiqSdrZ7gjg4PI8LiDJFgK1cvJgfem6nJrpOwaPIX8ptyvb0LuA=="，
+  "allowed_devices": [
+  ]，
+
+  "revoked_devices": [
+  ]
+}
